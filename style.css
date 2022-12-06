@@ -98,7 +98,7 @@ li {
 }
 
 .btn {
-  background-color: none;
+  background-color: rgba(0, 0, 0, 0);
   border-radius: 0.5rem;
   border: 1px solid;
   padding: 0.5rem 1rem;
@@ -124,7 +124,7 @@ form {
 
 input {
   background-color: rgba(255, 255, 255, 0);
-  border-radius: 1px solid;
+  border-radius: 1px;
   color: black;
   min-width: 40em;
 }
@@ -145,7 +145,7 @@ textarea {
 
 .container {
   border: none;
-  background-color: none;
+  background-color: rgba(0, 0, 0, 0);
   padding: 2rem;
 }
 
