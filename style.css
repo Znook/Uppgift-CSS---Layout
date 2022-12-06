@@ -16,7 +16,7 @@ body {
   font-family: "Poppins";
 }
 
-body > video {
+body > img {
   position: fixed;
   inset: 0;
   z-index: -1;
@@ -42,7 +42,7 @@ header nav {
 header {
   justify-content: space-between;
   padding-bottom: 2rem;
-  color: whitesmoke;
+  color: black;
 }
 
 header nav {
